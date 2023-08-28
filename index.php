@@ -1,3 +1,14 @@
+<?php
+
+session_start();
+try {
+    $bdd = new PDO('mysql:host=localhost;dbname=test', 'root', '',
+        array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
+    );
+} catch (Exception $e) {
+    die("Erreur " . $e->getMessage());
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,6 +16,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="stylee.css">
+
   <link rel="stylesheet" href="style2.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,26 +39,23 @@
     integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
     crossorigin="anonymous"
   />  -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <link rel="stylesheet" href="bootstrap/bootstrap.css">
-    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous"> -->
+    <!-- <link rel="stylesheet" href="bootstrap/bootstrap.css"> -->
+    <!-- <link rel="stylesheet" href="bootstrap/bootstrap.min.css"> -->
     <link rel="stylesheet" href="style.css">
     <!--font awesome-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <!--js cdn-->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    js cdn-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
         crossorigin="anonymous"></script>
-
   <title>Formation D-CLIC</title>
 </head>
-
-<header>
-
-
  <body>
+ <header>
  <?php include("menu/menu.php")?>
+
 
   <div class="na2">
     <h5>PROGRAMME</h5>

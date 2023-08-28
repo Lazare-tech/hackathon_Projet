@@ -29,7 +29,7 @@ try {
       <?php 
         if(isset($_SESSION['nom_utilisateur'])){?>
           <div class="btn-group">
-            <?php  echo  '<a href="dashboard_aprenant/profile.php"" class="text-white text-decoration-none">'.''.$_SESSION['nom_utilisateur'].'</a>';
+            <?php  echo  '<a href="dashboard_aprenant/profile.php"" class="u" style="color:wheat;">'.''.$_SESSION['nom_utilisateur'].'</a>';
                   ?>
                 </div>
    <?php echo "<a href='../frondtEndAboubacar/Logout.php'><button class='btn btn-success'>Deconnexion</button></a>";
@@ -42,23 +42,24 @@ try {
 
 }else {?>
         
-<a href="login_form.php" class="btn btn-warning btn-lg px-4 m-3">Se connecter</a>
-<!-- <a href="register_form.php" class="btn btn-danger btn-lg px-4 m-3">Register Here</a> -->
+<a href="login_form.php" class="s px-4 m-3">Se connecter</a>
                             <div class="btn-group">
-        <button type="button" class="btn btn-danger btn-lg px-4 m-3 dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-            S'inscrire
+      
+        <div class="dropdown">
+  <button class="dropbtn">S'inscrire</button>
+  <div class="dropdown-content">
+  <a class="m" href="register_form_aprenant.php">Aprenant</a>
+  <a class="m" href="register_entreprise_form.php">Entreprise</a>
 
-        </button>
-        <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="register_form_aprenant.php">Aprenant</a></li>
-            <li><a class="dropdown-item" href="register_entreprise_form.php">Entreprise</a></li>
-
-        </ul>
+  </div>
+</div>
+        
+          
         </div>
       </ul>
       <div class="offf">
         <img class="auff" src="images/AUF.png" alt="">
       </div>
     </div>
-    <!-- <?php }?> -->
+    <?php }?> 
   </nav>

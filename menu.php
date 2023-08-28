@@ -50,7 +50,7 @@ include("config/config.php");
                 <?php if(isset($_SESSION['nom_utilisateur'])){?>
     <div class="btn-group">
     <button type="" class="btn btn-outline-info dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-  <?php  echo  '<a href="#" class="text-dark text-decoration-none">'.''.$_SESSION['nom_utilisateur'].'</a>';?>
+  <?php  echo  '<a href="#" class="u text-decoration-none">'.''.$_SESSION['nom_utilisateur'].'</a>';?>
 
     </button>
     <ul class="dropdown-menu">
