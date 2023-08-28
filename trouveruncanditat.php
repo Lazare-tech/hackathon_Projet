@@ -83,7 +83,7 @@
 
 <section>
 
-  <h1 style="color: rgb(46, 46, 247);">Listes des canditat</h1><br>
+  <h1 style="color: rgb(46, 46, 247);position:relative;left:17rem">Listes des canditat</h1><br>
 
 
   <div class="card mb-3 vvv" style="max-width: 700px;">

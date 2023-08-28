@@ -89,7 +89,7 @@
 
 <section>
 
-  <h1 style="color: rgb(46, 46, 247);">Listes des jobs</h1><br>
+  <h1 style="color: rgb(46, 46, 247);position:relative;left:19rem">Listes des jobs</h1><br>
 
   <div class="list">
 

@@ -1,4 +1,15 @@
-<nav>
+<?php
+
+session_start();
+try {
+    $bdd = new PDO('mysql:host=localhost;dbname=test', 'root', '',
+        array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION)
+    );
+} catch (Exception $e) {
+    die("Erreur " . $e->getMessage());
+}
+?>
+  <nav>
     <div class="nav1">
       <div>
         <img class="fran" src="images/logo-franco.png" alt="">
@@ -10,12 +21,12 @@
       </div>
 
       <ul class="onglets">
-      <li><a href="index.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="formation.php">Formations</a></li>
         <li><a href="trouveruncanditat.php">Aprenants</a></li>
         <li><a href="trouvezundjob.php">Jobs</a></li>
         
-    
+      
       <div class="offf">
         <img class="auff" src="images/AUF.png" alt="">
       </div>
