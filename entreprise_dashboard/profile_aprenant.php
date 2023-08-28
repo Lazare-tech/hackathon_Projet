@@ -1,61 +1,57 @@
 <?php 
-include("../config/config.php");
-?>
-<!DOCTYPE html>
-<html lang="en">
+include("../config/config.php"); 
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <!-- <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
-        crossorigin="anonymous"></script>
-         -->
-         <link href="style.css" rel="stylesheet">
+?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+
+    <title>Dashboard Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../bootstrap/dashboard.css" rel="stylesheet">
-  
-    <title>Profile utilisateur</title>
-</head>
+    <link href="style.css" rel="stylesheet">
 
-<body>
- <?php 
- include("bare_laterale.php") ?>
+  </head>
 
-    <!-- references des utilisateurs  -->
-   
-    <?php $utilisateur=$bdd->prepare("SELECT * FROM register WHERE id= :id ");
-   $utilisateur->execute([
-    'id' => $_SESSION['id']
-   ]);
-   
-   ?> 
-   
-   
-   <div class="container-fluid">
+  <body>
+   <?php include("bare_laterale.php")?>
+
+
+    <div class="container-fluid">
       <?php include("vertical_menu.php")?>
 
-      <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
           <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
             <h1 class="h2">Dashboard</h1>
-           
+            <div class="btn-toolbar mb-2 mb-md-0">
+              <div class="btn-group mr-2">
+                <button class="btn btn-sm btn-outline-secondary">Share</button>
+                <button class="btn btn-sm btn-outline-secondary">Export</button>
+              </div>
+              <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
+                <span data-feather="calendar"></span>
+                This week
+              </button>
+            </div>
           </div>
-          <h4>Profile</h4>
 
-     
-        <div class="table-responsive">
+          <?php $utilisateur=$bdd->query("SELECT * FROM register ");?>
+
+          <h2>Aprenants</h2>
+          <div class="table-responsive">
             <table class="table table-striped table-sm">
-         
-            <thead class="bg-info">
+            <thead class="bg-light">
                 <tr>
                     <th>Nom</th>
                     <th>Prenom</th>
@@ -65,10 +61,12 @@ include("../config/config.php");
                     <th>Formations</th>
                     <th>Ville</th>
                     <th>Promotions</th>
+                    <th>Image Profile</th>
 
-                    <th>ImageProfile</th>
-                    <th>Actions</th>
 
+
+
+                    <th>Status</th>
                 </tr>
             </thead>
             <tbody>
@@ -105,25 +103,30 @@ include("../config/config.php");
                         <p class="text-muted mb-0"><?php echo $donnees['promotion']?></p>
                     </td>
                     <td>
-                        <p class="text-muted mb-0"><img src="../images/<?php echo $donnees['photo'];?>" class="image_ronde"></p>
+                        <p class="text-muted mb-0"><img src="../images/<?php echo $donnees['photo']?>" class="image_ronde"></p>
                     </td>
-                  
+                    <td>
+                        <p class="text-muted mb-0"><?php echo $donnees['role_utilisateur'];?></p>
+                    </td>
                     
                     <td>
-                        <a href="editer_profile_aprenant_form.php?id= <?php echo $donnees['id'];?>"><button type="button" class="btn btn-primary">
-                           Edit
-                        </button>
-                        </a>
+                        
                     </td>
                 </tr>
                 <?php }?>
 
 
             </tbody>
-        </table>
-            </main>
-            </div>
-    <!-- <--inser footer here-->
-</body>
+        
+            </table>
+          </div>
+        </main>
+      </div>
+    </div>
 
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+   
+  </body>
 </html>

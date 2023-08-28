@@ -53,8 +53,8 @@ include("../config/config.php");
               'id' => $_SESSION['id']
             ])
           ?>
-
-          <h2>Entreprise</h2>
+        <a href="create_jobs.php"><button class="btn btn-primary">Creer un job</button></a>
+          <h2>Profile</h2>
           <div class="table-responsive">
             <table class="table table-striped table-sm">
             <thead class="bg-light">

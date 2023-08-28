@@ -7,12 +7,14 @@
                   Home
                 </a>
               </li>
-            
-            <li class="nav-item pt-">
-                <a class="nav-link" href="../entreprise_dashboard/dashboar.php">
-                  Profile entreprise
+             
+              <li class="nav-item ">
+                <a class="nav-link" href="create_jobs.php">
+                  <span data-feather="shopping-cart"></span>
+                  Jobs
                 </a>
               </li>
+            
               <li class="nav-item pt-">
                 <a class="nav-link" href="../entreprise_dashboard/dashboar.php">
                   Profile entreprise
@@ -20,7 +22,7 @@
               </li>
              
               <li class="nav-item ">
-                <a class="nav-link" href="../aprenant/profile_aprenant.php">
+                <a class="nav-link" href="profile_aprenant.php">
                   <span data-feather="shopping-cart"></span>
                   Profile Aprenant
                 </a>
