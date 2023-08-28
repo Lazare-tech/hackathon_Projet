@@ -55,7 +55,7 @@ try {
 </head>
 
 <body>
-  <header>
+  <header class="Service">
     <?php include("menu/menu.php")?>
 
 

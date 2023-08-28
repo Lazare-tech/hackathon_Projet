@@ -35,7 +35,7 @@
   <title>Formation D-CLIC</title>
 </head>
 
-<header>
+<header class="design">
 <body>
 <?php include("menu/menu.php")?>
 
