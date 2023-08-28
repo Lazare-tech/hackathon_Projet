@@ -1,0 +1,17 @@
+.registe{
+    position:absolute;
+    left:200px;
+    color:red;
+}
+.f{
+    position:absolute;
+    left:500px;
+}
+.image_ronde{
+    border-radius:50%;
+    width:60px;
+}
+.edition_profile{
+    position:absolute;
+    left:200px;
+}

@@ -1,0 +1,1379 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    /* background: #fff; */
+}
+
+.fran{
+    width: 150px;
+    height: 50px;
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.auff{
+    width: 150px;
+    height: 40px;
+    /* border-radius: 5px; */
+    background-color: white;
+}
+.offf{
+    margin-top: 20px;
+    padding-right: 50px;
+}
+.onglets{
+    margin-left: 50px;
+}
+.dio{
+    display: flex;
+}
+
+header{
+  
+       
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/im2.jpg);
+    background-position: center;
+    background-size: cover;
+    position:  relative;
+    margin-top: 30px; 
+  
+
+}
+
+.Contact{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/Image-illustrative-B24.jpg);
+    background-position: center;
+    background-size: cover;
+    position:  relative; 
+
+}
+
+.Service{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/DCLIC\ Mada.jpg);
+    background-position: center;
+    background-size: cover;
+    position:  relative; 
+}
+.design{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/image2.jpg); 
+    background-position: center;
+    background-size: cover;
+    position:  relative; 
+}
+.para{
+    text-align: center;
+    font-size: 30px;
+}
+
+section .para h4{
+    margin-top: 10%;
+}
+
+.logo-box{
+    display: flex;
+    font-size: 50px;
+    /* clip-path: polygon(0% 20%,
+    60% 20%,
+    60% 0%,
+   100% 50%,
+    60% 100%,
+    60% 80%,
+     0% 80%); */
+     /* background-color: #fff; */
+     justify-content: center;
+     align-items: center;
+     width: 6rem;
+     /* margin-left: 30px; */
+     height: 4rem;
+     /* margin-top: 20px; */
+    
+}
+.logo-box .une .deux .trois .quatre .cinq .six{
+    
+
+}
+
+.une{
+    color: red;
+    font-size: 25px;
+    /* margin-right: px; */
+}
+.deux{
+    color: green;
+    font-size: 25px;
+
+
+    
+
+}
+.trois{
+    color: #440744;
+    font-size: 25px;
+    /* margin-right: 6px; */
+
+}
+.quatre{
+    color: yellow;
+    font-size: 25px;
+    /* margin-right: 6px; */
+
+
+}
+.cinq{
+    color: red;
+    font-size: 25px;
+    /* margin-right: 6px; */
+
+
+}
+.six{
+    color: blue;
+    font-size: 25px;
+    /* margin-right: 5px; */
+    padding-right: 25px;
+
+
+}
+
+/* .mama{
+    font-size: 50px;
+    color: #440744;
+} */
+
+
+.pro{
+text-align: center; 
+color:deepskyblue;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 40px;
+}
+
+
+.act{
+    text-align: center; 
+    color:deepskyblue;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 50px;
+    }
+
+.num{
+text-align: center;
+ margin-top: 20px; 
+ color: orange;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 50px;
+}
+
+
+
+
+.nav{
+    display: flex;
+    position: relative;  
+}
+
+.nav li{
+    list-style: none;   
+}
+.nav a{
+    color: #111; 
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 700;
+
+}
+.button{
+    padding: 10px 20px;
+    background: red;
+    margin-top: -10px;
+    text-transform: uppercase;   
+
+}
+
+.button1{
+    padding: 10px 20px;
+    background: blue;
+    margin-top: -10px;
+    text-transform: uppercase; 
+}
+
+.button:hover{
+    background: red;
+    transition: ease-out;
+}
+
+
+p{
+    font-weight: 300;
+    color: #111;
+}
+.programme{
+    padding: 150px;
+    color: #111;
+}
+
+.form{
+    display: flex;
+}
+
+ section .right img{
+    width: 600px;
+    height: 350px;
+    margin-top: 150px;
+    
+}
+
+.actualite{
+ padding-left: 100px;
+ padding-right: 100px;
+ display: flex;
+ /* justify-content: space-around; */
+ 
+}
+
+
+section .actualite .imbox img{
+    width: 700px;
+    height: 400px;
+}
+
+.photo h1{
+    text-align: center;
+}
+
+.francophonie img{
+
+    /* height: 50%; */
+
+}
+
+.page{
+    width: 60%;
+    margin-left: 5%;
+    border-radius: 15px;
+}
+
+.oif img{
+    width: 100%;
+    /* height: 50%; */
+    margin-top: 10%;
+
+}
+
+.copinright{
+    padding: 20px 40px;
+    border-top: 2px solid rgba(0,0,0,0.1);
+    background: rgba(228,222,228,);
+    text-align:center ;
+}
+
+.copinright p:nth-child(1){
+    color: #333;
+}
+
+.copinright a {
+    color: #fd911f;
+    text-decoration: none;
+    font: weight 600px;
+    font-style:italic ;
+}
+
+/* section .femme{
+        position: relative;
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: url(inform.avif);
+        background-size: cover;
+} */
+
+
+.btn-1{
+    font-size: 1em;
+    color: #fff;
+    background: deepskyblue;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    margin-left: 10px;
+}
+
+.btn-1:hover{
+    letter-spacing: 4px;
+}
+
+.titre{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
+
+.btn-2{
+    font-size: 1em;
+    color: #fff;
+    background: deepskyblue;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    margin-left: 10px;
+}
+
+.btn-4{
+    font-size: 1em;
+    color: #fff;
+    background: orchid;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    margin-left: 10px;
+}
+
+.btn-3{
+    font-size: 1em;
+    color: #fff;
+    background: burlywood;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    margin-left: -55%; 
+}
+
+
+.btn-2:hover{
+    letter-spacing: 4px;
+}
+/* .footer{
+    padding: 100px 50px;
+    background: brown;
+    display: flex;
+    justify-content: space-between;
+}
+
+.suive {
+    color: #fff;
+}
+
+.RA p{
+    color: #fff;
+}
+.rachi p{
+    color: #fff;
+
+}
+.icons p{
+    color: #fff;
+} */
+/* .dra {
+    font-size: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: blue;
+
+}
+.omi ul a{
+    text-decoration: none;
+
+}
+.mar{
+    font-size: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: #3f053f;
+}
+.tra{
+    font-size: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: red;
+}
+.yel{
+    font-size: 30px;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+} */
+
+
+.franco{
+    
+    background: #fff;
+    padding: 50px 30px;
+}
+
+.franco p{
+    color: #111;
+    
+}
+.franco h4{
+    color: #111;
+}
+
+.franco h3{
+    color: #111;
+}
+
+/* .contactform{
+    display: flex;
+    background: deepskyblue;
+    justify-content: space-between;
+}
+.contactform h3{
+    color: #111;
+} */
+
+.contactform{
+    padding: 75px 50px;
+    background: brown;
+    box-shadow: 5px 15px 50px rgba(0,0,0,0.8);
+    max-width: 500px;
+    margin-top: 50px;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 50px;
+}
+.contactform .inputboite{ 
+    position: relative;
+    width: 100%; 
+    margin-bottom: 20px;
+}
+
+
+.contactform h3{
+    color: #111;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+.contactform .inputboite input,
+.contactform .inputboite textarea{
+    width: 100%; 
+    border: 1px solid #555;
+    padding: 10px;
+    color: #111;
+    outline: none;
+    font-size: 16px;
+    font-weight: 300;
+    resize: none;
+  }
+
+/* .design{
+    padding-top: 10%;
+    position: relative; */
+    /* height: 100vh; */
+    /* display: flex; */
+    /* background-size: cover; */
+    /* background-image: url(nous-recrutons.png); */
+    
+  /* } */
+
+  section .design img{
+    /* height: 500px; */
+  }
+  
+  .nous-recrutons {
+   
+  
+    
+    /* background-image: url(_imge_1045.jpg);
+    background-size: cover;
+     */
+  }
+
+  .nous-recrutons h1{
+    margin-bottom: 40%;
+  }
+
+  .bootstrap{
+    padding-top: 10%;
+  }
+
+  .group img{
+    width: 100%;
+  }
+
+ .des-paroles embed{
+    width: 100%;
+ }
+  
+  
+  /* partie nav */
+  
+  
+  
+.nav1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav1 ul{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.nav1 ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+    
+}
+.nav1 ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.job{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+.wan{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(28, 171, 28);
+    color: #fff;
+}
+
+.nav1 ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: chocolate;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.nav1 ul li:hover::after{
+    width: 100%;
+}
+
+
+.lo1{
+    width: 350px;
+   
+}
+
+.img-box{
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+}
+.na1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+
+
+
+.na2{
+    padding-top: 150px;
+    padding-left: 250px;
+}
+.na2 h5{
+    color: rgb(158, 151, 151);
+}
+.na2 h2 {
+    color: #fff;
+    font-size: 35px;
+}
+.na2 small{
+    color: #e5e0e0;
+}
+
+/* partie formilaire home page */
+
+.na3 a{
+  
+    text-decoration: none;
+    margin-top: 50px; 
+    margin-left: 10px;
+    /* padding-left: 50px;  */
+}
+.na3{
+   /* display: flex; 
+   justify-content: space-around;
+   padding: 3% 25%;
+   margin-right: 500px; */
+   display: flex;
+   padding-bottom: 5px;
+   margin-bottom: 5px;
+   margin-top: 50px;
+   padding-left: 15.5%;
+}
+
+.na4{
+    display: flex;
+    /* justify-content: space-around; */
+    background-color: #fff;
+    height: 15vh;
+    padding-top: 30px;
+    width: 900px;
+    text-align: center;
+    /* padding-left: 20px; */
+    border-radius: 10px;
+    margin-left: 255px;
+    /* margin-right: 100px; */
+    /* padding: 40px 20px; */
+    
+}
+
+.na4 input{
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 45px;
+    margin-left: 10px;
+    /* border: 1px solid #ddd; */
+
+}
+
+.na4 select{
+    padding: 10px 25px;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    margin-left: 10px;
+}
+
+.na4 button{
+    /* padding: 10px 70px; */
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    margin-left: 10px;
+    /* border: 1px solid #ddd; */
+}
+
+.sea{
+    background-color: rgb(24, 24, 207);
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    margin-bottom: 30px; 
+}
+
+.job1{
+  border-radius: 10px; 
+  padding: 10px 20px;
+  background-color: rgb(35, 35, 208); 
+  color: #fff;
+  margin-bottom: 10px;
+}
+.job2{
+    border-radius: 10px; 
+    padding: 10px 20px;
+    background-color: white; 
+    color: black; 
+}
+.aj{
+    /* margin-top: 1.5%; */
+}
+
+
+
+
+
+.cta{
+    margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/DCLIC\ Mada.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+.cta h1{
+     color: #fff;
+     margin-bottom: 40px;
+     padding: 0;
+}
+ .hero-btn{
+     color: #fff;
+     padding: 12px 27px;
+     background-color: #f44336;
+     text-decoration: none;
+    }
+    .recru{
+    text-align: center; 
+    color:deepskyblue;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 40px;
+        
+
+    }
+
+    /* css bonde */
+
+
+    
+      h1{
+        font-size: 25px;
+      }
+      .p1{
+        font-size: 13px;
+      }
+      .komo{
+        background-color: darkgreen;
+        border: 0;
+        border-radius: 10px;
+        width: 100px;
+        color: antiquewhite;
+        height: 50px;
+        cursor: pointer;
+        transition: 0.5s;
+      }
+      .bi2{
+        background-color: darkgreen;
+        border: 0;
+        border-radius: 10px;
+        width: 100px;
+        color: antiquewhite;
+        height: 50px;
+      }
+      .bi{
+        color: darkgreen;
+        font-size: 20px;
+      }
+      
+      
+      
+      /* css Sadia */
+      
+      .temoins {
+        height: 350px;
+        width: 600px;
+        margin-left: 100px;
+        margin-top: 20px;
+        border-radius: 20px;
+    }
+    .tem {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .temtext {
+        padding-top: 80px;
+        padding-left: 10px;
+    }
+    .h3 {
+        margin-top: 30px;
+        margin-left: 360px;
+    }
+
+.farr p{
+    text-align: center;
+    font-size: 50px;
+}
+
+.farr h1{
+    text-align: center;
+    color: darkcyan ;
+}
+.photo h1{
+    color: deepskyblue;
+    font-size: 40px;
+}
+
+
+    /* css bienvenue */
+    .footer{
+        padding: 50px;
+        background-color: brown;
+        display: flex;
+        padding: 70px;
+       justify-content: space-evenly;
+    }
+    .img-footer{
+        margin-top: 50px;
+    }
+    .img-footer img{
+        height: 6.2rem;
+        margin-bottom: 30px;
+    }
+    .img-footer p{
+        font-size: 1rem;
+        color: #fff;
+    }
+    
+    .icons{
+        margin-bottom: 10px;
+    }
+    .img-footer i{
+        display: inline-flex;
+       align-items: center; 
+       justify-content: center;
+       width: 40px;
+       height: 40px;
+       color: var(--main-color);
+       border-radius: 50%;
+       backdrop-filter: brightness(88%);
+       font-size: 20px;
+       margin-right: 17px;
+       box-shadow: 0 0 20px transparent;
+       cursor: pointer;
+       transition: all.50s ease;
+       color: #fff;
+    }
+    .icons i:hover{
+        transform: scale(1.1);
+        box-shadow: 0 0 20px var(--main-color);
+    }
+    .RA p{
+        font-size: 1rem;
+        /* margin-bottom: 35px; */
+        color: #fff;
+    }
+    .RA{
+    margin-top: 30px;
+    }
+    .P{
+        font-size: 1rem;
+        color: #fff;
+    }
+    .rachi p{
+        font-size: 1rem;
+        color: #fff;
+    }
+    .rachi{
+    margin-top: 30px;
+    }
+    .icons{
+        margin-top: 30px;
+    }
+    .icons p{
+        font-size: 1rem;
+        color: #fff;
+    }
+    .L{
+        text-align: center;
+        color: #fff;
+        background-color: rgb(197, 56, 56);
+        height: 80px;
+    }
+    .l{
+    padding-top: 30px;
+    }
+    .nos{
+        
+    }
+    
+    /* soulama */
+    .fottt img{
+        height: 200px;
+        width: 250px;
+        /* border-radius:15px; */
+    }
+    .fottt{
+        padding-left: 150px;
+        margin-top: 4%;
+    }
+    .div{
+        display: flex;
+        justify-content: space-around;
+        /* background: #f3f3f3; */
+        height: 600px;
+    
+    }
+    
+    .divv .fottt{
+        margin-left: -180px;
+    }
+    .divv{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .j{
+        margin-top: 5%;
+    }
+    .sect .h{
+        text-align: center;
+        color: rgb(2, 233, 233);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 2.5rem;
+    }
+    ul li{
+        list-style: none;
+        font-size: 10px;
+        color: #5a5555;
+    }
+    .j h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 1.2rem;
+        color: rgb(0, 105, 167);
+    }
+    .j p{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 16px;
+    }
+    .j button{
+        width: 130px;
+        height: 35px;
+        background: rgb(0, 105, 167);
+        border-radius: 10px;
+        cursor: pointer;
+        align-items: center;
+        border: 1px solid white;
+        color: white;
+    }
+    .j button:hover{
+        background: aqua;
+    }
+    
+    
+    /* responsive */
+    
+    .toggle{
+        display: none;
+    }
+    @media (max-width: 1268px){
+        .div{
+            height: 900px;
+            /* flex-direction: column; */
+        
+        }
+        .divv{
+            height: 900px;
+            flex-direction:column-reverse;
+        }
+        .j{
+            /* padding-left: 150px; */
+            /* text-align: center; */
+        }
+        .fottt{
+            text-align: center;
+        }
+        .div .fottt{
+            padding-left: 0;
+        }
+        .divv .fottt{
+            margin-left: 0;
+        }
+        header{
+            margin-top: 0;
+        }
+        
+        
+    }
+    
+    @media (max-width: 1200px){
+        .divv{
+          padding-left: 30px;
+          padding-right: 30px;
+            
+        }
+        
+    }
+    @media (max-width: 1157px){
+        .divv{
+          padding-left: 10px;
+          padding-right: 10px;
+            
+        }
+        /* .divv .fottt img{
+            height: 150px;
+            width: 200px;
+        } */
+    }
+    
+    @media  (max-width: 1065px) {
+
+
+
+        .toggle {
+          display: block;
+          font-size: 2rem;
+          cursor: pointer;
+          position: relative;
+          z-index: 21;
+          color: #fff;
+         
+        }
+        
+        
+      .logo-box {
+        /* position: relative; */
+        z-index: 20;
+        margin-top: 24px;
+        
+      } 
+         
+       
+      .ouvrir {
+        display: block;
+      }
+    
+      .fermer {
+        display: none !important;
+      }
+    
+      .open .ouvrir {
+        display: none;
+      }
+    
+    
+      .open .fermer {
+        display: block !important;
+      }
+    
+      .onglets {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 105vh;
+        background-color: #000;
+        flex-direction: column;
+        padding: 2rem;
+        justify-content: space-around;
+        transform: translateX(-100%);
+        transition: transform 1s;
+        z-index: 20;
+      }
+    
+      .open .onglets {
+        transform: translateX(0);
+      } 
+      
+      
+      .onglets li a {
+        font-size: 2rem;
+      }
+      
+      
+      header{
+        min-height: 100vh;
+    }
+      
+      .na4{
+          height: 20vh;
+          padding-right: 10px;
+          /* margin-top: 50px;  */
+          /* width: 100%; */
+          margin-left: 100px;
+          /* margin-right: 100px; */
+      }
+      .box .imbox{
+          /* display: none; */
+          height: 300px;
+          width: 300px;
+      } 
+      
+      
+      .na3{
+          margin-left: 0;
+          margin-right: 10px;
+      }
+       
+      
+    .na2{
+        padding-top: 0px;
+    } 
+    .fottt img{
+        height: 120px;
+        width: 150px;
+    }
+    .div .fottt{
+        margin-top: 15%;
+    }
+    .divv{
+       padding-left: 50px; 
+       padding-right: 50px;
+    }
+    .actualite h4{
+        font-size: 1.2rem;
+        padding-top: 100px;
+    }
+    .actualite{
+        /* padding-left: 100px; */
+        padding-right: 100px;
+        flex-direction: column-reverse;
+    }
+       
+        
+    }
+    
+    @media  (max-width: 1000px){
+        .na4 {
+            width: 75%;
+            
+        }
+        .na4 input{
+            /* padding: 3px 10px; */
+            width: 130px;
+        }
+        .na4 select{
+            /* padding: 3px 10px; */
+            width: 130px;
+        }
+        .na4 button{
+            /* padding: 3px 10px; */
+            width: 130px;
+        }
+    }
+    
+    @media  (max-width: 745px){
+        
+        .na4 input{
+            width: 100px;
+        }
+        .na4 select{
+            width: 100px;
+        }
+        .na4 button{
+            width: 100px;
+        }
+        .box .imbox{
+            height: 100px;
+            width: 100px;
+        } 
+    }
+    
+    /* header responssive */
+    
+    
+    @media (max-width: 930px){
+        .actualite{
+            flex-direction: column-reverse;
+        }
+        .tem{
+            flex-direction: column;
+        }
+        
+    }
+    
+    
+    @media  (max-width: 300px) {
+    
+    .toggle{
+        margin-top: 10%;
+    }
+    .na2{
+        padding-left: 0;
+    }
+    .na2 h3{
+        text-align: center;
+        color: white;
+    }
+    .na2 h2{
+        text-align: center;
+    }
+    .actualite{
+        margin-left: 0;
+        /* text-align: center; */
+    }
+    section .actualite .imbox img {
+        width: 300px;
+        height: 300px;
+    }
+    .temoinss{
+        width: 300px !important;
+    }
+    section .h3{
+        margin-left: 0;
+    }
+    .container .slides{
+        margin-right: 10%;
+    }
+    .div{
+        height: 100%;
+    }
+    .divv{
+        height: 100%;
+    }
+    .divv{
+        margin-left: -80px;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .j ul li{
+        
+        text-align: start;
+        margin-left: 15px;
+    }
+    .divv .div .j{
+        /* text-align: center; */
+    }
+    body{
+        /* background: #000; */
+        width: 100%;
+    }
+     .footer{
+         flex-direction: column;
+         padding: 10px;
+         
+     }
+     .na3{
+         flex-direction: column;
+         /* display: none; */
+     }
+     .na3 .aj {
+         margin-top: 30%;
+     }
+     .na3 a{
+         /* padding-left: 0; */
+         text-align: center;
+     }
+     /* .na3 job2{
+         margin-left: 0;
+     } */
+     .na4{
+         display: none;
+     }
+     .act{
+         font-size: 1rem;
+     }
+     .recru{
+         font-size: 1rem;
+     }
+     .na2 h5{
+         /* text-align: center; */
+         margin-top: 25%;
+         padding-left: 15px;
+     }
+     .h3{
+        
+     }
+     header{
+         margin-top: 0;
+         min-height: 105vh;
+         /* width: 300px; */
+     }
+     section .omni{
+         /* width: 300px; */
+     }
+     .carou{
+         display: none;
+     }
+     .fottt img{
+         border-radius: 15px;
+         /* width: 300px; */
+     }
+     .disp{
+         display: none;
+     }
+    .ja a{
+        margin-left: -30px;
+    }
+    .aj a{
+        margin-left: -30px;
+    }
+    .sect .h{
+        font-size: 1.5rem;
+    }
+    .num{
+        font-size: 1.5rem;
+    }
+    .pro{
+        font-size: 1.5rem;
+    }
+    section .photo h1{
+        font-size: 1rem;
+    }
+    .actualite h4{
+        text-align: center;
+    }
+    .logo-box{
+        height: 2.5rem;
+        width: 6rem;
+        margin-left: 10px;
+    }
+    .une{
+        font-size: 18px;
+    }
+    .deux{
+        font-size: 18px;
+    }
+    .trois{
+        font-size: 18px;
+    }
+    .quatre{
+        font-size: 18px;
+    }
+    .cinq{
+        font-size: 18px;
+    }
+    .six{
+        font-size: 18px;
+    }
+    .na2 h2{
+        font-size: 1.3rem;
+    }
+    .toggle{
+        font-size: 20px;
+    }
+    .actualite h4{
+        font-size: .8rem;
+    }
+    
+    .nav1 ul{
+        padding: 0%;
+    }
+    .farr p{
+        font-size: 1rem;
+    }
+   
+    .farr h1{
+        font-size: 1rem;
+    }
+    .divv{
+        margin-left: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+    .img-footer img{
+        text-align: center;
+        }
+    }
+    .res{
+        font-size: 15px;
+    }
+    
+    @media  (max-width: 295px) {
+        
+        section .actualite .imbox img{
+            width: 250px;
+        }
+    }
+    
+    

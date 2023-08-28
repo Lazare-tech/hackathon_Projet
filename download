@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L78PH8YRYT"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-L78PH8YRYT');
+    </script>
+
+    
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6097409-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-6097409-1", {"groups":"default","anonymize_ip":true});</script>
+<link rel="canonical" href="https://www.francophonie.org/" />
+<link rel="shortlink" href="https://www.francophonie.org/" />
+<meta name="description" content="Retrouvez toute l’actualité de la Francophonie et de ses programmes : langue française, éducation, culture, égalité homme femme, jeunesse, société civile…" />
+<meta name="keywords" content="OIF;francophonie;Organisation;internationale;langue;francaise;Louise Mushikiwabo;charte de la francophonie;secretaire general;AIMF;APF;Europe" />
+<meta property="og:site_name" content="Organisation Internationale de la Francophonie" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.francophonie.org" />
+<meta property="og:title" content="Portail de l’Organisation Internationale de la Francophonie (OIF)" />
+<meta property="og:description" content="Retrouvez toute l’actualité de la Francophonie et de ses programmes : langue française, éducation, culture, égalité homme femme, jeunesse, société civile…" />
+<meta property="og:image" content="https://www.francophonie.org/sites/default/files/pictures/2021-06/OIF-og.jpg" />
+<meta property="og:image:url" content="https://www.francophonie.org/sites/default/files/pictures/2021-06/OIF-og.jpg" />
+<meta property="og:image:type" content="jpg" />
+<meta property="og:image:width" content="768" />
+<meta property="og:image:height" content="372" />
+<meta property="og:image:alt" content="OIF: Organisation mondiale de la francophonie" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon-64.png" type="image/png" />
+<link rel="revision" href="https://www.francophonie.org/node/90" />
+
+    <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+        <title>Organisation Internationale de la Francophonie (OIF)</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_0hHz8SUrag7aEh1DKXBaPRDOUqJ6plYpg3kkXMhm9R8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NGEOm7Rn97pTve8RZGhj7XzbvGozrWAWOfhJaq8jdzI.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_jjcISgAc7_2kUZ1iBbmeZ9TdwHrYRBXYhuvmXTzwTfY.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="path-frontpage page-node-type-page-accueil">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+    
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><nav role="navigation" aria-labelledby="block-menu-menu" id="block-menu" class="block block-menu navigation menu--menu">
+            
+  <h2 class="visually-hidden" id="block-menu-menu">Menu</h2>
+  
+
+        
+
+<!-- Header -->
+<div class="header">
+  <div class="container">
+    <div class="headerinner d-flex justify-content-between bg-white">
+      <div class="menutoggle align-self-center">
+        <button type="button" class="togglebtn border-0 p-0">
+          <span class="togglebar bar1"></span>
+          <span class="togglebar bar2"></span>
+          <span class="togglebar bar3"></span>
+        </button>
+      </div>
+      <div class="logo mx-auto align-self-center">
+        <a class="#" href="/"><img src="/themes/francophonie/images/site-logo.png" alt="" class="img-fluid"/></a>
+      </div>
+      <div class="choix-langue">
+        <button><a title="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></button>
+        <ul>
+          <li>
+            <a href="https://www.francophonie.org/francophonie-brief-1763" title="Anglais">English</a>
+          </li>
+          <li>
+            <a href="https://www.francophonie.org/la-francophonie-en-bref-arabe-1734" title="Arabe">العربية</a>
+          </li>
+          <li>
+            <a href="https://www.francophonie.org/la-francofonia-en-pocas-palabras-1771" title="Español">Español</a>
+          </li>
+          <li>
+            <a href="https://www.francophonie.org/francofonia-em-resumo-1772" title="Português">Português</a>
+          </li>
+        </ul>
+      </div>
+      <div class="searchbtn align-self-center position-relative">
+        <button type="button" class="searchtoggle border-0 p-0">
+          <i class="fa fa-search"></i>
+        </button>
+        <form action="/recherche">
+          <input type="text" id="search-input" name="search" class="form-control border-top"
+                 placeholder="Entrez votre recherche">
+          <input type="hidden" name="tag" value=""/>
+          <button type="submit">
+            <i class="fa fa-search"></i>
+          </button>
+        </form>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="sidebar-backdrop">
+  <div class="sidebar-inner pt-5 text-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-1 mb-4 mb-lg-0">
+          <ul class="socialicon list-unstyled mb-0 text-center">
+            <li><a target="_blank" href="https://www.facebook.com/OIFrancophonie/"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li><a target="_blank" href="https://twitter.com/OIFrancophonie"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" href="https://www.youtube.com/channel/UCdfa0YQnDbKa65VlTrvUYcw"><i
+                  class="fa fa-youtube-play"></i></a></li>
+            <li><a target="_blank" href="https://www.instagram.com/oifrancophonie/"><i class="fa fa-instagram"></i></a>
+            </li>
+            <li><a target="_blank" href="https://www.linkedin.com/company/oif/"><i class="fa fa-linkedin"></i></a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-12 col-lg-5 ml-auto">
+
+                                                                                                              <div class="sidemenu mb-5">
+                  <h5 class="sidebar-title text-uppercase text-white Font-Montserrat font-weight-bold mb-4">QUI SOMMES-NOUS ?</h5>
+                                      <ul class="list-unstyled mb-0 sidenav pl-4">
+                                                                                    <li>
+                  <a href="/index.php/la-francophonie-en-bref-754" class="side-links text-white" data-drupal-link-system-path="node/754">La Francophonie en bref</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/qui-sommes-nous-5" class="side-links text-white" data-drupal-link-system-path="node/5">Acteurs de la coopération / pays membres / gouvernance</a>
+                                  </li>
+                                                                      <li>
+                  <a href="https://www.francophonie.org/la-secretaire-generale-de-la-francophonie-83" class="side-links text-white">Secrétaire générale</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/la-langue-francaise-dans-le-monde-305" class="side-links text-white" data-drupal-link-system-path="node/305">La langue française dans le monde</a>
+                                  </li>
+                                                                      <li>
+                  <a href="https://www.francophonie.org/ressources?type=5" class="side-links text-white">Documents de référence / Transparence</a>
+                                  </li>
+                                                            
+                    </ul>
+                                                              </div>
+                                                                          <div class="sidemenu mb-5">
+                  <h5 class="sidebar-title text-uppercase text-white Font-Montserrat font-weight-bold mb-4">CE QUE NOUS FAISONS</h5>
+                                      <ul class="list-unstyled mb-0 sidenav pl-4">
+                                                                                    <li>
+                  <a href="/index.php/notre-valeur-ajoutee-41" class="side-links text-white" data-drupal-link-system-path="node/41">Notre valeur ajoutée</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/au-plus-pres-des-populations-306" class="side-links text-white" data-drupal-link-system-path="node/306">Au plus près des populations</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/face-aux-enjeux-mondiaux-43" class="side-links text-white" data-drupal-link-system-path="node/43">Face aux enjeux mondiaux</a>
+                                  </li>
+                                                                      <li>
+                  <a href="" class="side-links text-white">Programmes</a>
+                                      <ul class="list-unstyled mb-0 sidenav pl-4 submenu">
+                                                                                    <li>
+                  <a href="/index.php/node/70" class="side-links text-white" data-drupal-link-system-path="node/70">Langue française</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/diversite-culturelle-53" class="side-links text-white" data-drupal-link-system-path="node/53">Diversité culturelle</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/education-et-formation-11" class="side-links text-white" data-drupal-link-system-path="node/11">Éducation et formation</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/affaires-politiques-et-gouvernance-democratique-276" class="side-links text-white" data-drupal-link-system-path="node/276">Affaires politiques, démocratie...</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/economie-et-numerique-244" class="side-links text-white" data-drupal-link-system-path="node/244">Économie et numérique</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/developpement-durable-33" class="side-links text-white" data-drupal-link-system-path="node/33">Développement durable</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/egalite-femmes-hommes-100" class="side-links text-white" data-drupal-link-system-path="node/100">Égalité femmes-hommes</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/jeunesse-141" class="side-links text-white" data-drupal-link-system-path="node/141">Jeunesse</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/societe-civile-283" class="side-links text-white" data-drupal-link-system-path="node/283">Société civile</a>
+                                  </li>
+                                                            
+                    </ul>
+                                  </li>
+                                                            
+                    </ul>
+                                                              </div>
+                                                                          <div class="sidemenu mb-5">
+                  <h5 class="sidebar-title text-uppercase text-white Font-Montserrat font-weight-bold mb-4">ACTUALITÉS ET MÉDIAS</h5>
+                                      <ul class="list-unstyled mb-0 sidenav pl-4">
+                                                                                    <li>
+                  <a href="/index.php/actualites-medias" class="side-links text-white" data-drupal-link-system-path="actualites-medias">Actualités</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/actualites-medias?type=page_evenement" class="side-links text-white" data-drupal-link-query="{&quot;type&quot;:&quot;page_evenement&quot;}" data-drupal-link-system-path="actualites-medias">Événements</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/actualites-medias?type=video" class="side-links text-white" data-drupal-link-query="{&quot;type&quot;:&quot;video&quot;}" data-drupal-link-system-path="actualites-medias">Vidéos</a>
+                                  </li>
+                                                                      <li>
+                  <a href="https://phototheque.francophonie.org" class="side-links text-white">Photos</a>
+                                  </li>
+                                                            
+                    </ul>
+                                                              </div>
+                                                                          </div>
+                  <div class="col-12 col-lg-5">
+                                  <div class="sidemenu mb-5">
+                  <h5 class="sidebar-title text-uppercase text-white Font-Montserrat font-weight-bold mb-4">L&#039;OIF ET VOUS</h5>
+                                      <ul class="list-unstyled mb-0 sidenav pl-4">
+                                                                                    <li>
+                  <a href="https://recrutement-francophonie.jobs.net/fr-FR/" class="side-links text-white">Recrutements</a>
+                                  </li>
+                                                                      <li>
+                  <a href="https://www.francophonie.org/marches-publics" class="side-links text-white">Marchés publics</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/appels-projets-candidatures-initiatives-1111" class="side-links text-white" data-drupal-link-system-path="node/1111">Appels à candidatures</a>
+                                  </li>
+                                                                      <li>
+                  <a href="/index.php/contact/formulaire_contact" class="side-links text-white" data-drupal-link-system-path="contact/formulaire_contact">Contacts</a>
+                                  </li>
+                                                            
+                    </ul>
+                                                              </div>
+                                                        <div class="select mb-5">
+                  <h5 class="sidebar-title text-uppercase text-white Font-Montserrat font-weight-bold">VOUS ÊTES :</h5>
+                  <div class="select-transparent">
+                    <select class="form-control js-select2-menu">
+                                              <option value="">choisissez un profil</option>
+                                              <option value="/index.php/societe-civile-283">Membre de la société civile</option>
+                                              <option value="/index.php/vous-etes-professeurapprenant-du-francais-315">Professeur/apprenant du français</option>
+                                          </select>
+                  </div>
+                </div>
+                                                            
+
+                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Header -->
+  </nav>
+<!-- slider -->
+
+<section class="slidersec py-0">
+  <div id="owl-slide" class="owl-carousel owl-theme">
+      <div class="item">
+      <div class="background-image-maker gradient gradient-full"></div>
+    <div class="holder-image">
+      <img src="/sites/default/files/2023-07/jeux2023_manchette_site.jpg"
+           alt="c" class="img-fluid d-none">
+    </div> 
+  
+    <div class="container">
+      <div class="floatingsocial">
+        <ul class="socialicon list-unstyled mb-0 text-center">
+          <li><a target="_blank" href="https://www.facebook.com/OIFrancophonie/"><i class="fa fa-facebook"></i></a>
+          </li>
+          <li><a target="_blank" href="https://twitter.com/OIFrancophonie"><i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank" href="https://www.youtube.com/channel/UCdfa0YQnDbKa65VlTrvUYcw"><i
+                class="fa fa-youtube-play"></i></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/oifrancophonie/"><i class="fa fa-instagram"></i></a>
+          </li>
+          <li><a target="_blank" href="https://www.linkedin.com/company/oif/"><i class="fa fa-linkedin"></i></a>
+          </li>
+        </ul>
+      </div>
+      <div class="row">
+        <div class="col-12 col-lg-7">
+                      <a href="https://www.francophonie.org/9es-jeux-de-la-francophonie-Kinshasa-2023" class="sunu-test">
+            <div class="slider-content text-white">
+                              <small class="surTitre text-upppercase">KINSHASA | 28 juillet-6 août</small>
+                            <h2 class="text-white pt-3">Retour sur les IXes Jeux de la Francophonie</h2>
+                              <br>
+                <br>
+                <br>
+                          </div>
+            </a>
+                  </div>
+      </div>
+    </div>
+</div> 
+
+
+  <div class="item">
+      <div class="background-image-maker gradient gradient-full"></div>
+    <div class="holder-image">
+      <img src="/sites/default/files/2023-07/Mobilit%C3%A92.jpg"
+           alt="C" class="img-fluid d-none">
+    </div> 
+  
+    <div class="container">
+      <div class="floatingsocial">
+        <ul class="socialicon list-unstyled mb-0 text-center">
+          <li><a target="_blank" href="https://www.facebook.com/OIFrancophonie/"><i class="fa fa-facebook"></i></a>
+          </li>
+          <li><a target="_blank" href="https://twitter.com/OIFrancophonie"><i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank" href="https://www.youtube.com/channel/UCdfa0YQnDbKa65VlTrvUYcw"><i
+                class="fa fa-youtube-play"></i></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/oifrancophonie/"><i class="fa fa-instagram"></i></a>
+          </li>
+          <li><a target="_blank" href="https://www.linkedin.com/company/oif/"><i class="fa fa-linkedin"></i></a>
+          </li>
+        </ul>
+      </div>
+      <div class="row">
+        <div class="col-12 col-lg-7">
+                      <a href="https://www.francophonie.org/mobilite-enseignants-francais-Seychelles-appel-candidatures-2849" class="sunu-test">
+            <div class="slider-content text-white">
+                              <small class="surTitre text-upppercase">PROFESSEURS DE FRANÇAIS</small>
+                            <h2 class="text-white pt-3">Vivez une expérience de mobilité aux Seychelles</h2>
+                              <br>
+                <br>
+                <br>
+                          </div>
+            </a>
+                  </div>
+      </div>
+    </div>
+</div> 
+
+
+  <div class="item">
+      <div class="background-image-maker gradient gradient-full"></div>
+    <div class="holder-image">
+      <img src="/sites/default/files/2023-07/Banel%20et%20Adama.jpg"
+           alt="c" class="img-fluid d-none">
+    </div> 
+  
+    <div class="container">
+      <div class="floatingsocial">
+        <ul class="socialicon list-unstyled mb-0 text-center">
+          <li><a target="_blank" href="https://www.facebook.com/OIFrancophonie/"><i class="fa fa-facebook"></i></a>
+          </li>
+          <li><a target="_blank" href="https://twitter.com/OIFrancophonie"><i class="fa fa-twitter"></i></a></li>
+          <li><a target="_blank" href="https://www.youtube.com/channel/UCdfa0YQnDbKa65VlTrvUYcw"><i
+                class="fa fa-youtube-play"></i></a></li>
+          <li><a target="_blank" href="https://www.instagram.com/oifrancophonie/"><i class="fa fa-instagram"></i></a>
+          </li>
+          <li><a target="_blank" href="https://www.linkedin.com/company/oif/"><i class="fa fa-linkedin"></i></a>
+          </li>
+        </ul>
+      </div>
+      <div class="row">
+        <div class="col-12 col-lg-7">
+                      <a href="https://www.francophonie.org/7-films-soutenus-par-loif-sur-les-ecrans-2854" class="sunu-test">
+            <div class="slider-content text-white">
+                              <small class="surTitre text-upppercase">CINÉMA</small>
+                            <h2 class="text-white pt-3">7 films soutenus par l&#039;OIF sur les écrans cet été et à l&#039;automne</h2>
+                              <br>
+                <br>
+                <br>
+                          </div>
+            </a>
+                  </div>
+      </div>
+    </div>
+</div> 
+
+
+
+  </div>
+</section>
+<!-- End slider -->
+
+<!-- News -->
+<section class="newssec">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-12">
+        <div class="heading text-center mb-5">
+          <h4 class="Libre-bold">Actualités</h4>
+        </div>
+      </div>
+    </div>
+      
+                
+                    
+          
+    <div class="row grid-actu-accueil no-focus-event">
+        
+<div class="col-12 col-lg-8 mb-4 col-home-actu-a-la-une">
+  <a href="/index.php/cloture-des-ixes-jeux-de-la-francophonie-2885" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwsbig gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-08/Sans%20titre%2025.jpg');">
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <small class="text-uppercase">Communiqué de presse
+                          |
+                        Jeux de la Francophonie</small>
+          <h4 class="font-weight-bold Font-Montserrat text-white">Clôture des IXes Jeux de la Francophonie</h4>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+        <div class="col-12 col-lg-4 mb-4">
+    <a data-fancybox href="https://www.youtube.com/watch?v=5Q4HJZit-Dg&amp;autoplay=1&amp;rel=0&amp;controls=1&amp;showinfo=0" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwsbig gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-05/DC.jpg');">
+      <div class="videoicon rounded-circle position-relative text-white text-center mx-auto" href=""><i class="fa fa-play"></i> </div>
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <h6 class="font-weight-bold Font-Montserrat text-white">Les projets de l&#039;OIF : D-CLIC</h6>
+        </div>
+      </div>
+    </div>
+  </a>
+</div> 
+
+
+              
+<div class="col-12 col-lg-4 mb-4 col-home-actu-secondaire">
+  <a href="/index.php/la-secretaire-generale-de-la-francophonie-vivement-preoccupee-par-la-situation-politique-au-niger" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwssmall gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-07/photo-Niger%20.png');">
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <small class="text-uppercase">
+                          Communiqué de presse
+                                      |
+                         Affaires politiques, démocratie</small>
+          <h6 class="font-weight-bold Font-Montserrat text-white">Niger : la Secrétaire générale de la Francophonie vivement préoccupée par la situation politique</h6>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+  
+<div class="col-12 col-lg-4 mb-4 col-home-actu-secondaire">
+  <a href="/index.php/senegal-lancement-du-programme-d-clic-formez-vous-au-numerique-avec-loif-dakar-60-jeunes-seront" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwssmall gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-08/Photo%20DECLIC%20.jpg');">
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <small class="text-uppercase">
+                          Actualité
+                                      |
+                         D-CLIC</small>
+          <h6 class="font-weight-bold Font-Montserrat text-white">Sénégal : Lancement du programme « D-CLIC, formez-vous au numérique avec l’OIF » à Dakar, 60 jeunes seront formés dans les métiers du développement web</h6>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+  
+<div class="col-12 col-lg-4 mb-4 col-home-actu-secondaire">
+  <a href="/index.php/la-cybersecurite-au-menu-des-discussions-des-experts-francophones-lonu-2886" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwssmall gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-08/photo-cybersecurit%C3%A9-new%20york%20.JPG');">
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <small class="text-uppercase">
+                          Actualité
+                                      |
+                         Affaires politiques, démocratie</small>
+          <h6 class="font-weight-bold Font-Montserrat text-white">La cybersécurité au menu des discussions des experts francophones à l’ONU </h6>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+
+            <div class="mobile-only pr-db-w1">
+          <div class="col-12 col-lg-4 mb-4">
+    <a data-fancybox href="https://www.youtube.com/watch?v=5Q4HJZit-Dg&amp;autoplay=1&amp;rel=0&amp;controls=1&amp;showinfo=0" class="nws-panel d-block">
+    <div class="newsblock rounded bg-cover nwsbig gradient gradient-full position-relative" style="background-image: url('/sites/default/files/2023-05/DC.jpg');">
+      <div class="videoicon rounded-circle position-relative text-white text-center mx-auto" href=""><i class="fa fa-play"></i> </div>
+      <div class="nwscontent p-3 text-white">
+        <div class="nwsinner">
+          <h6 class="font-weight-bold Font-Montserrat text-white">Les projets de l&#039;OIF : D-CLIC</h6>
+        </div>
+      </div>
+    </div>
+  </a>
+</div> 
+
+
+      </div>
+      
+
+      <div class="col-12 col-lg-12 text-center">
+        <a href="/actualites-medias" class="btn btn-outline-dark rounded-50">Plus d’actualités <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End News -->
+
+<!-- About -->
+  <section class="aboutsec pb-0 mb-lg-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-6">
+        <div class="about-image">
+          <img src="/sites/default/files/2023-07/Quoi.jpg" alt="" class="img-fluid h-100 rounded" />
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="about-content text-white p-4 p-lg-5">
+          <a href="/qui-sommes-nous-5"><h4 class="text-white Libre-bold">Qui sommes-nous ?</h4></a>
+          <p>L&#039;Organisation internationale de la Francophonie (OIF) met en oeuvre la coopération multilatérale francophone au service de ses 88 Etats et gouvernements.</p>
+          <a href="/qui-sommes-nous-5" class="btn btn-white rounded-50">Découvrir <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- End About -->
+
+<!-- Program -->
+<section class="programsec bg-orange">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-12">
+        <div class="heading text-center mb-5">
+          <h4 class="Libre-bold text-white">Nos projets phares</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="program-slide" class="owl-carousel owl-theme">
+    
+            
+                
+                    
+                                            <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2022-11/icone%20pmp.jpeg" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/mobilite-des-enseignants"><h6 class="Libre-bold">Mobilité des enseignant(e)s</h6></a>
+      <p>Lancé en 2020, le projet de mobilité des enseignant(e)s volontaires vise à améliorer la qualité de l’éducation en français et l’enseignement du français dans plusieurs pays de l’espace francophone.
+
+Le dernier rapport de l’OIF « La langue française dans le monde », actualisé en 2019, faisait état </p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/mobilite-des-enseignants" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2019-10/femmes.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/la-francophonie-avec-elles-1707"><h6 class="Libre-bold">La Francophonie avec Elles</h6></a>
+      <p>Chaque nouvelle crise plonge des millions de femmes actives des pays francophones dans la précarité. Avec son Fonds "La Francophonie avec Elles", l'OIF les soutient.
+
+Les populations les plus touchées par les crises sont en premier lieu les filles et les femmes en situation&nbsp;de vulnérabilité.&</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/la-francophonie-avec-elles-1707" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2022-09/Etat%20civil%2032.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/etat-civil-1971"><h6 class="Libre-bold">Etat civil</h6></a>
+      <p>Le droit à l’identité, à travers l’enregistrement des naissances, est le point de départ pour l’exercice de tous les autres droits. L'OIF se mobilise pour que l'enregistrement des faits d'état civil se concrétise pleinement.
+
+Sur demande de ses États et gouvernements membres, et en lien avec les a</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/etat-civil-1971" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2019-10/economie.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/missions-economiques-et-commerciales-2107"><h6 class="Libre-bold">Missions économiques et commerciales</h6></a>
+      <p>L'OIF organise des missions économiques et commerciales dans le but de favoriser les opportunités d'affaires et d'investissement entre pays francophones.
+
+Ces missions s'adressent à des&nbsp;opérateur économiques (entrepreneurs, investisseurs, promoteurs...) actifs dans les secteurs de l'agro-indu</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/missions-economiques-et-commerciales-2107" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2022-09/Medias.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/lutte-contre-la-desinformation"><h6 class="Libre-bold">Lutte contre la désinformation</h6></a>
+      <p>Lancé en 2021, le projet&nbsp;«&nbsp;Lutte contre la désinformation&nbsp;» vise à renforcer la réponse et la résilience des Etats et d’autres acteurs face aux désordres ou manipulations de l’information dans l’espace francophone.
+
+Les réseaux sociaux se sont imposés dans la vie quotidienne en perm</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/lutte-contre-la-desinformation" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2019-10/book_0.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/prix-des-5-continents-de-la-francophonie-59"><h6 class="Libre-bold">Prix des 5 continents de la Francophonie</h6></a>
+      <p>Créé par l’OIF en 2001, le Prix des cinq continents de la Francophonie permet de mettre en lumière des talents littéraires reflétant l’expression de la diversité culturelle et éditoriale en langue française sur les cinq continents et de les promouvoir sur la scène littéraire internationale.
+
+La di</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/prix-des-5-continents-de-la-francophonie-59" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2019-10/jeux-de-la-francophonie.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/jeux-de-la-francophonie-99"><h6 class="Libre-bold">Jeux de la Francophonie</h6></a>
+      <p>Tous les 4 ans, durant l’année post-olympique, les Jeux de la Francophonie réunissent plus de 3500 jeunes talents ayant la langue française en partage. 
+
+Ces Jeux solidaires, qui promeuvent la diversité, l’excellence et la solidarité, relèvent d’un concept original unique au monde qui rassemble la</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/jeux-de-la-francophonie-99" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2023-06/picto%20elan%202_0.jpg" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/enseignement-bilingue-elan-18"><h6 class="Libre-bold">Enseignement bilingue : ELAN</h6></a>
+      <p>Améliorer les apprentissages des fondamentaux tels que lire, écrire et calculer en français, en s'appuyant sur la langue maternelle des élèves, c'est là l'originalité&nbsp;du programme ELAN-Afrique (Ecole et langues nationales en Afrique). 
+
+De nombreuses études l’ont montré : dans les premières a</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/enseignement-bilingue-elan-18" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="item">
+  <div class="program-block bg-white p-4 rounded">
+        <div class="pro-icon mb-3">
+      <img src="/sites/default/files/2019-10/numerique2.png" alt="" class="img-fluid" />
+    </div>
+        <div class="pro-content">
+      <a href="/index.php/dclic"><h6 class="Libre-bold">D-CLIC, formez-vous au numérique</h6></a>
+      <p>Pour renforcer les compétences numériques des jeunes de l’espace francophone et multiplier leurs chances d’accéder à des emplois décents, en entreprises et dans l’entreprenariat, l’OIF met en œuvre le programme «&nbsp;D-CLIC, formez-vous au numérique&nbsp;».
+
+La transformation numérique de nos soc</p>
+      <div class="pro-btn d-none text-center">
+        <a href="/index.php/dclic" class="btn btn-outline-dark rounded-50">En savoir plus <i class="fa fa-long-arrow-right pl-2 rounded-50"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+                          
+                                                            
+            
+
+  </div>
+</section>
+<!-- End Program -->
+
+<!-- Counter -->
+<section class="countersec">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 col-lg-12">
+        <div class="heading text-center mb-5">
+          <h4 class="Libre-bold">La Francophonie en chiffres</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4 mb-lg-0 key-number">
+  <div class="listblock text-center">
+    <div class="list-content">
+      <h1 class="Libre-bold color-key-number">
+            <div class="field field--name-field-chiffre-cle-texte field--type-string field--label-hidden field__item">321</div>
+      </h1>
+      <p>
+            <div class="field field--name-field-descriptif-court-chiffre-c field--type-string-long field--label-hidden field__item">Millions de francophones dans le monde</div>
+      </p>
+    </div>
+  </div>
+</div>
+
+  <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4 mb-lg-0 key-number">
+  <div class="listblock text-center">
+    <div class="list-content">
+      <h1 class="Libre-bold color-key-number">
+            <div class="field field--name-field-chiffre-cle-texte field--type-string field--label-hidden field__item">88</div>
+      </h1>
+      <p>
+            <div class="field field--name-field-descriptif-court-chiffre-c field--type-string-long field--label-hidden field__item">États et gouvernements composent l’OIF</div>
+      </p>
+    </div>
+  </div>
+</div>
+
+  <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4 mb-lg-0 key-number">
+  <div class="listblock text-center">
+    <div class="list-content">
+      <h1 class="Libre-bold color-key-number">
+            <div class="field field--name-field-chiffre-cle-texte field--type-string field--label-hidden field__item">5e</div>
+      </h1>
+      <p>
+            <div class="field field--name-field-descriptif-court-chiffre-c field--type-string-long field--label-hidden field__item">Langue mondiale</div>
+      </p>
+    </div>
+  </div>
+</div>
+
+  <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4 mb-lg-0 key-number">
+  <div class="listblock text-center">
+    <div class="list-content">
+      <h1 class="Libre-bold color-key-number">
+            <div class="field field--name-field-chiffre-cle-texte field--type-string field--label-hidden field__item">144</div>
+      </h1>
+      <p>
+            <div class="field field--name-field-descriptif-court-chiffre-c field--type-string-long field--label-hidden field__item">Millions d&#039;apprenants du et en français</div>
+      </p>
+    </div>
+  </div>
+</div>
+
+  <div class="col-12 col-sm-6 col-md-4 col-lg-2 mb-4 mb-lg-0 key-number">
+  <div class="listblock text-center">
+    <div class="list-content">
+      <h1 class="Libre-bold color-key-number">
+            <div class="field field--name-field-chiffre-cle-texte field--type-string field--label-hidden field__item">4e</div>
+      </h1>
+      <p>
+            <div class="field field--name-field-descriptif-court-chiffre-c field--type-string-long field--label-hidden field__item">Langue sur Internet</div>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+  </div>
+</section>
+<!-- End Counter -->
+
+&nbsp;
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-pieddepagefr-menu" id="block-pieddepagefr" class="block block-menu navigation menu--pied-de-page">
+            
+  <h2 class="visually-hidden" id="block-pieddepagefr-menu">Pied de page fr</h2>
+  
+
+        
+<div class="footer">
+          
+
+  <div class="footer-bottom text-white py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-12">
+          <div class="foot-logo mb-5">
+            <a class="#" href="/"><img src="/themes/francophonie/images/logo-white.png" alt="" class="img-fluid"></a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 mb-4 mb-lg-0">
+          <p class="mb-1"><b>Organisation internationale de la Francophonie</b></p>
+          <p class="mb-1">19-21 avenue Bosquet • 75007 Paris (France)</p>
+          <p class="mb-1">Téléphone <a href="tel:(33)144373325" class="text-white">(33) 1 44 37 33 25</a></p>
+          <p class="mb-1">Télécopie <a href="tel:(33)145791498" class="text-white">(33) 1 45 79 14 98</a></p>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-2 mb-4 mb-lg-0">
+          <ul class="list-unstyled mb-0 footlink text-uppercase">
+                                                              <li>
+            <a href="https://recrutement-francophonie.jobs.net/fr-FR/" class="text-white">RECRUTEMENTS</a>
+                      </li>
+                                                    <li>
+            <a href="/appels-projets-candidatures-initiatives-1111" class="text-white" data-drupal-link-system-path="node/1111">APPELS À CANDIDATURES</a>
+                      </li>
+                                                    <li>
+            <a href="/marches-publics" class="text-white" data-drupal-link-system-path="node/1104">Marchés publics</a>
+                      </li>
+                                                      </ul>
+              </div>
+              <div class="col-12 col-sm-6 col-lg-2 mb-4 mb-lg-0">
+                <ul class="list-unstyled mb-0 footlink text-uppercase">
+                    <li>
+            <a href="/contact/formulaire_contact" class="text-white" data-drupal-link-system-path="contact/formulaire_contact">CONTACTS</a>
+                      </li>
+                                                    <li>
+            <a href="https://www.francophonie.org/mentions-legales-1426" class="text-white">MENTIONS LÉGALES</a>
+                      </li>
+                                                    <li>
+            <a href="https://www.francophonie.org/politique-de-confidentialite-512" class="text-white">POLITIQUE DE CONFIDENTIALITÉ</a>
+                      </li>
+                      
+        </div>
+        <div class="col-12 col-lg-4 _ml-auto order-1 order-lg-2 mb-5 mb-lg-0">
+          <div class="foottop-right text-center text-lg-right">
+            <p class="lead">Suivez-nous sur</p>
+            <ul class="socialnav list-inline mb-0">
+              <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/OIFrancophonie/"><i class="fa fa-facebook"></i></a></li>
+              <li class="list-inline-item"><a target="_blank" href="https://www.youtube.com/channel/UCdfa0YQnDbKa65VlTrvUYcw"><i class="fa fa-youtube-play"></i></a></li>
+              <li class="list-inline-item"><a target="_blank" href="https://twitter.com/OIFrancophonie"><i class="fa fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a target="_blank" href="https://www.linkedin.com/company/oif/"><i class="fa fa-linkedin"></i></a></li>
+              <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/oifrancophonie/"><i class="fa fa-instagram"></i></a></li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+  </nav>
+<div class="views-element-container block block-views block-views-blockbandeau-info-block-1" id="block-views-block-bandeau-info-block-1">
+  
+    
+      
+            
+                
+                    
+            
+                                                            
+            
+
+  </div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <ul id="custom-tabs-primary" data-id="90" class="tabs primary custom" style="display:none"><li><a href="/node/90/edit" data-drupal-link-system-path="node/90/edit">Modifier</a></li></ul>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/90","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-6097409-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"554fd24e8437ac4798f28123e02b7c8320fef7a1aa6523b29f6ad03857a894a6"}}</script>
+<script src="/sites/default/files/js/js_xS6AcBsJOLRV9fqB1WDqVLFI4vUuRyWLIOJIcFY2tNI.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.full.js"></script>
+<script src="/sites/default/files/js/js_--dmoqE6K-wZ31Byl1iV3ECdAif7HU2WmVSzukqcx48.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="/sites/default/files/js/js_KSF5UgWNk6la-9U-BwbD-b8SesRGIwFAueKn8-MjEso.js"></script>
+
+    <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    jQuery(document).ready(function($){
+      console.log("Footer... !!!");
+    function toggleMenu2(){
+        //sidebar
+        if(canToggleMenu){
+          $(".sidebar-backdrop").toggleClass("active");
+          $(".togglebtn").toggleClass("active");
+          canToggleMenu = false
+        }
+
+        setTimeout(()=>{
+          canToggleMenu = true
+        }, 100)
+      }
+      $(".togglebtn").click(function () {
+        toggleMenu2 ();console.log("Clic Foot... !!!");
+      });
+    });
+    </script>
+  </body>
+</html>
