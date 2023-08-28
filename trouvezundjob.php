@@ -59,10 +59,10 @@
 
   <div class="na3">
     <div class="ja">
-      <a class="job1" href="trouvez un djob.html">Touvez un job</a>
+      <a class="job1" href="trouvezundjob.php">Touvez un job</a>
     </div>
     <div class="aj">
-      <a class="job2" href="trouver un canditat.html" style="margin-left: 0;">Trouver un candidat </a>
+      <a class="job2" href="trouveruncanditat.php" style="margin-left: 0;">Trouver un candidat </a>
     </div>
   </div>
 

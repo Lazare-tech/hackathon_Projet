@@ -22,9 +22,9 @@ try {
 
       <ul class="onglets">
         <li><a href="index.php">Home</a></li>
-        <li><a href="service1.php">Service</a></li>
-        <li><a href="design.html">Design</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="formation.php">Formations</a></li>
+        <li><a href="trouveruncanditat.php">Aprenants</a></li>
+        <li><a href="trouvezundjob.php">Jobs</a></li>
         
       <?php 
         if(isset($_SESSION['nom_utilisateur'])){?>
@@ -32,13 +32,13 @@ try {
             <?php  echo  '<a href="dashboard_aprenant/profile.php"" class="u" style="color:wheat;">'.''.$_SESSION['nom_utilisateur'].'</a>';
                   ?>
                 </div>
-   <?php echo "<a href='../frondtEndAboubacar/Logout.php'><button class='btn btn-success'>Deconnexion</button></a>";
+   <?php echo '<a href="../frondtEndAboubacar/Logout.php"" ><button class="b" style="background-color:#4CAF50;;padding:5px;cursor:pointer;font-size:16px;border:none" >Deconnexion</button></a>';
 }else if(isset($_SESSION['nom_entreprise'])){?>
-  <div class="btn-group">
+  <div class="btn-group"> 
     <?php  echo  '<a href="dashboard_aprenant/profile.php"" class="text-white text-decoration-none">'.''.$_SESSION['nom_entreprise'].'</a>';
           ?>
         </div>
-<?php echo "<a href='../frondtEndAboubacar/Logout.php'><button class='btn btn-success'>Deconnexion</button></a>";
+<?php echo "<a href='../frondtEndAboubacar/Logout.php' class='b'><button class=''>Deconnexion</button></a>";
 
 }else {?>
         

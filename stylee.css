@@ -1179,7 +1179,9 @@ section .actualite .imbox img{
         }
         
     }
-    
+    .carou{
+        margin-bottom: 5rem;
+    }
     
     @media  (max-width: 300px) {
     
@@ -1394,6 +1396,11 @@ section .actualite .imbox img{
         border: none;
         cursor: pointer;
       }
+      .b{
+        background-color: #4CAF50;
+
+    
+      }
       
       .dropdown {
         position: relative;
@@ -1429,4 +1436,14 @@ section .actualite .imbox img{
       }
       .m{
           color:black;
+      }
+      .entreprise{
+          width: 100px;
+          height: 100px;
+          padding-left: 2rem;
+
+          
+      }
+      .entreprise_bloc{
+          padding-left: 7rem;
       }

@@ -1,7 +1,7 @@
 <section class="omni">
     <section class="footer">
         <div class="img-footer">
-            <img src="logo-franco.png" alt="">
+            <img src="images/logo-franco.png" alt="">
             <p>SUIVEZ-NOUS-SUR</p>
             <a href="#"><i class="ri-facebook-fill res"></i></a>
             <a href="#"><i class="ri-instagram-fill "></i></a>

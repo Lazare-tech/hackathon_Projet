@@ -53,27 +53,14 @@
   
     <div class="na3">
       <div class="ja">
-      <a class="job1" href="trouvez un djob.html">Trouvez un job</a>
+      <a class="job1" href="trouvezundjob.php">Trouvez un job</a>
       </div>
       <div class="aj">
-      <a class="job2" href="trouver un canditat.html">Trouvez un candidat</a>
+      <a class="job2" href="trouveruncanditat.php">Trouvez un candidat</a>
       </div>
     </div>
   
-    <!-- <div class="na4">
-  
-      <input type="text" placeholder="eg.adam Scott" />
-  
-      <select class="form-select na4-1" aria-label="Default select example">
-        <option value="1">Debutant</option>
-        <option value="2">Moyen</option>
-        <option value="3">Assez bon</option>
-        <option value="4">Professionelle</option>
-      </select>
-      <input type="text" placeholder="Localisation" />
-      <button class="sea">Search</button>
-  
-    </div> -->
+    
   </header><br><br>
       
     
