@@ -487,7 +487,7 @@ try {
     crossorigin="anonymous"></script>
     <script src="index2.js"></script>
     <script src="index.js"></script>
-    <?php include("../frondEndAboubacar/footer/footer.php")?>
+    <?php include("footer/footer.php")?>
 
   </body>
 
